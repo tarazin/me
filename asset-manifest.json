@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.a451c7b5.chunk.css",
+    "main.js": "/me/static/js/main.ec3ef224.chunk.js",
+    "main.js.map": "/me/static/js/main.ec3ef224.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.b9e4ec81.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.b9e4ec81.js.map",
+    "static/js/2.3a74c30d.chunk.js": "/me/static/js/2.3a74c30d.chunk.js",
+    "static/js/2.3a74c30d.chunk.js.map": "/me/static/js/2.3a74c30d.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/main.a451c7b5.chunk.css.map": "/me/static/css/main.a451c7b5.chunk.css.map",
+    "static/js/2.3a74c30d.chunk.js.LICENSE.txt": "/me/static/js/2.3a74c30d.chunk.js.LICENSE.txt",
+    "static/media/burger.8a0abaea.jpg": "/me/static/media/burger.8a0abaea.jpg",
+    "static/media/fitness.9f31ae20.png": "/me/static/media/fitness.9f31ae20.png",
+    "static/media/weather.be118e13.png": "/me/static/media/weather.be118e13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e4ec81.js",
+    "static/js/2.3a74c30d.chunk.js",
+    "static/css/main.a451c7b5.chunk.css",
+    "static/js/main.ec3ef224.chunk.js"
+  ]
+}
